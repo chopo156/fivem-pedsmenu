@@ -1,20 +1,23 @@
 # peds
-Choose Ped (Menu NativeUI) FiveM 
+ FiveM Choose your ped (NativeUI)
 
-Menu Peds FiveM
-
-Menu wykonane przez szymczakovv#0001
-
-Zajeło mi to około 3h dlatego mogą być jakieś błędy, możecie je zgłaszać mi na pv postaram się naprawić i z updatować pliki.
-
-Na dniach napewno będą updaty np. Bronie ?
-Może też kickowanie ? :thinking:
-
-IMG:
-
+Image:
+<p></p>
 https://gyazo.com/a036a09afd6339cefdcd7d919ec0ac9f
+<p></p>
 https://gyazo.com/bc2611231e579e689b55509b7a45e5f9
+<p></p>
 https://gyazo.com/a2afd41d059f869eb5c006d01bde4bcc
+<p></p>
 https://gyazo.com/ba9d430bf65b84e5720b875e69defbc8
 
-Zakazuję kopiowania/rozpowszechniania podpisując się pod to np. wykonane przez maciuś12#1234
+<p></p>
+https://szymczakovv.pl/
+<p></p>
+https://twitch.tv/szymczakovv
+<p></p>
+https://instagram.com/szymczakovv/
+<p></p>
+https://steamcommunity.com/id/szymczakovv
+<p></p>
+https://discord.gg/wrSqK6k/
